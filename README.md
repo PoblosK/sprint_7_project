@@ -1,12 +1,13 @@
 # sprint_7_project
 creación de una aplicación web
+
 # Sprint 7 – Vehicles Data Dashboard
 
 Esta aplicación web fue desarrollada con **Streamlit** y permite realizar
 una visualización interactiva de datos de anuncios de venta de coches en
 Estados Unidos.
 
-## 📊 Funcionalidad
+## Funcionalidad
 
 La aplicación permite:
 
@@ -14,14 +15,17 @@ La aplicación permite:
 - Analizar la relación entre el precio y el kilometraje usando un gráfico de dispersión.
 - Activar o desactivar visualizaciones mediante casillas de verificación.
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Python
 - Pandas
 - Plotly
 - Streamlit
 
-## 🚀 Despliegue
+## Despliegue
 
 La aplicación está desplegada en Render y es accesible a través de un navegador web.
+
+## URL
+https://sprint-7-project-lldc.onrender.com 
 
