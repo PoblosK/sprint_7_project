@@ -1,7 +1,4 @@
-# sprint_7_project
-creación de una aplicación web
-
-# Sprint 7 – Vehicles Data Dashboard
+# Vehicles Data Dashboard
 
 Esta aplicación web fue desarrollada con **Streamlit** y permite realizar
 una visualización interactiva de datos de anuncios de venta de coches en
